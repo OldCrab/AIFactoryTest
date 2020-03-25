@@ -1,2 +1,2 @@
-# DeepKotix
-## Andrey Vasiliev
+# iOS Developer Task
+## Andrey Vasiliev, DeepKotix
